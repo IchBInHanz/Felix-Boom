@@ -1,0 +1,7 @@
+name: FelixBoom
+version: ${project.version}
+main: dev.ichbinhanz.felixboom.Main
+api-version: 1.16
+authors: [ IchBinHanz ]
+description: Boooooooooooom
+website: ichbinhanz.dev

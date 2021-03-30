@@ -1,0 +1,7 @@
+name: FelixBoom
+version: 1.0-SNAPSHOT
+main: dev.ichbinhanz.felixboom.Main
+api-version: 1.16
+authors: [ IchBinHanz ]
+description: Boooooooooooom
+website: ichbinhanz.dev
